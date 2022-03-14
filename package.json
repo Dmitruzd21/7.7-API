@@ -1,0 +1,19 @@
+{
+    "name": "book_service_testing",
+    "version": "1.0.0",
+    "description": "Tests with cypress ",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "dashboard": "npx cypress run --record --key 5a10a76f-5494-4485-805e-6329460073a0"
+    },
+    "keywords": [
+        "test",
+        "cypress"
+    ],
+    "author": "Dmitry",
+    "license": "ISC",
+    "dependencies": {
+        "cypress": "^9.5.1"
+    }
+}

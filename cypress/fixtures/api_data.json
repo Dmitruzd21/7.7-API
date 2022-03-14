@@ -1,0 +1,11 @@
+{
+ "id": [931, 932, 933],
+ "userName": ["IvanIvanov101", "IvanIvanov102", "IvanIvanov103"],
+ "firstName": "Ivan",
+ "lastName": "Ivanov",
+ "email": "ivan.mail.ru",
+ "password": "pass",
+ "phone": "9997775544",
+ "userStatus": 21,
+ "updatedPhone": "888777666555"
+}

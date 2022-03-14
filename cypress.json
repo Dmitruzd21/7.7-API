@@ -1,0 +1,7 @@
+{
+  "taskTimeout": 30000,
+  "retries": {
+    "openMode": 0
+  },
+  "projectId": "htno33"
+}
